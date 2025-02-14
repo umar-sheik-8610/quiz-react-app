@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the speed of light in a vacuum?",
+    "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+    "correct_option": "300,000 km/s"
+  },
+  {
+    "id": 2,
+    "question": "Who proposed the theory of general relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+    "correct_option": "Albert Einstein"
+  },
+  {
+    "id": 3,
+    "question": "What is the largest planet in our Solar System?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "correct_option": "Jupiter"
+  },
+  {
+    "id": 4,
+    "question": "Which element is the most abundant in the universe?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Helium"],
+    "correct_option": "Hydrogen"
+  },
+  {
+    "id": 5,
+    "question": "What phenomenon is described by Einstein's equation E=mc^2?",
+    "options": ["Gravity", "Mass-energy equivalence", "Relativity of time", "Quantum mechanics"],
+    "correct_option": "Mass-energy equivalence"
+  },
+  {
+    "id": 6,
+    "question": "Which planet is known as the 'Morning Star'?",
+    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "correct_option": "Venus"
+  },
+  {
+    "id": 7,
+    "question": "What is a black hole?",
+    "options": ["A type of star", "A collapsed star with intense gravity", "A comet", "A supernova"],
+    "correct_option": "A collapsed star with intense gravity"
+  },
+  {
+    "id": 8,
+    "question": "Who discovered the law of universal gravitation?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Johannes Kepler"],
+    "correct_option": "Isaac Newton"
+  },
+  {
+    "id": 9,
+    "question": "What is the primary component of the Sun?",
+    "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+    "correct_option": "Hydrogen"
+  },
+  {
+    "id": 10,
+    "question": "Which theory explains the origin of the universe?",
+    "options": ["Big Bang Theory", "Steady State Theory", "String Theory", "Quantum Theory"],
+    "correct_option": "Big Bang Theory"
+  }
+]

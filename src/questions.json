@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "question": "What is the speed of light in a vacuum?",
+    "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+    "correctOption": "300,000 km/s"
+  },
+  {
+    "id": 2,
+    "question": "Who proposed the theory of general relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "correctOption": "Albert Einstein"
+  },
+  {
+    "id": 3,
+    "question": "What is the largest planet in our Solar System?",
+    "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+    "correctOption": "Jupiter"
+  }
+]

@@ -29,6 +29,11 @@ body {
   text-align: center;
 }
 
+.question-section h2 {
+  margin: 10px 0;
+  font-weight: 600;
+  color: rgb(42, 133, 212);
+}
 .options {
   display: flex;
   justify-content: center;
@@ -58,4 +63,16 @@ button:hover {
 
 .timer span {
   font-weight: bold;
+}
+
+.score-section h2 {
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.score-section button {
+  background-color: tomato;
+  border-radius: 10px;
+  padding: 10px 15px;
+  margin-top: 20px;
 }
